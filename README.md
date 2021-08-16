@@ -10,5 +10,5 @@
 * ``make dev-up``
 * Navigate to http://localhost/
 * click banner
-* login with password from `.env`
+* login with user test@test.ru and password from `.env`
   (`APP_TEST_USER_PASS` value)
